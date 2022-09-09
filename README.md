@@ -1,4 +1,4 @@
-# Project Name: DA-baby-steps
+# Project Name: Theresa-baby-step-in-data-analysis
 
 -------
 # Project Objective: Problem Statement
